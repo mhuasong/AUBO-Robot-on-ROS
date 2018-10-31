@@ -7,7 +7,7 @@ Simulation Of AUBO Collaborative Robot On ROS
 初步的教程计划安排如下：
 
 ROS与协作机器人实战开发教程
-1. Aubo协作机器人介绍（https://github.com/mhuasong/AUBO-Robot-on-ROS/blob/master/ch1_v1.pdf）
+1. Aubo协作机器人介绍（https://github.com/mhuasong/AUBO-Robot-on-ROS/blob/master/ch1_v1.pdf ）
 2. ROS编程基础
 3. AUBO协作机器人ROS环境建模
 4. AUBO i5运动学仿真
