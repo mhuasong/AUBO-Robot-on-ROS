@@ -12,9 +12,10 @@ ROS与协作机器人实战开发教程
 3. AUBO协作机器人ROS环境建模 (https://github.com/mhuasong/AUBO-Robot-on-ROS/blob/master/ch3_v1.pdf )
 4. AUBO i5运动学仿真 (正运动学: https://github.com/mhuasong/AUBO-Robot-on-ROS/blob/master/ch4_1_v1.pdf 逆运动学：https://github.com/mhuasong/AUBO-Robot-on-ROS/blob/master/ch4_2_v1.pdf ) 
 5. AUBO i5轨迹规划 (https://github.com/mhuasong/AUBO-Robot-on-ROS/blob/master/ch5_v1.pdf )
-6. Aubo协作机器人ROS驱动
-7. AUBO I5书法机器人实例
-8. Moveit!
-9. 移动机器人ROS建模与仿真
-10. 复合机器人实例开发
+6. AUBO i5动力学仿真 ( https://github.com/mhuasong/AUBO-Robot-on-ROS/blob/master/ch6_v1.pdf )
+7. Aubo协作机器人ROS驱动
+8. AUBO I5书法机器人实例
+9. Moveit!
+10. 移动机器人ROS建模与仿真
+11. 复合机器人实例开发
 ......
