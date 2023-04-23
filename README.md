@@ -19,3 +19,5 @@ ROS与协作机器人实战开发教程
 10. 移动机器人ROS建模与仿真
 11. 复合机器人实例开发
 ......
+
+注：此实验教程不会再更新，教程中涉及代码可以参见新的教材实验：https://github.com/mhuasong/Basics-of-Robotics-Theory-and-Technology
